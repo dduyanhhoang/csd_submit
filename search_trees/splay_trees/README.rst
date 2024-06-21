@@ -1,9 +1,9 @@
-Student manager using BST (Tree map)
+Splay Tree (Using BST)
 ====================================
 
 Project Description
 -------------------
-Again, H assigned me to create another student manager using binary search tree.
+It's a splay tree.
 
 Installation
 ------------
