@@ -16,6 +16,7 @@ At the moment, just do it if you want to write tests.
 Usage
 -----
 Splay tree class is ready to use. Usage could be found in tests/test_splay_tree_map.py.
+
 .. code-block:: bash
 
     pytest
